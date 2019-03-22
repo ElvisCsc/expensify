@@ -1,4 +1,6 @@
 node_modules/
+node-js-getting-started/
+src/node-js-getting-started/
 public/bundle.js
 public/bundle.js
 public/styles.css
